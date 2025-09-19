@@ -1,7 +1,7 @@
 ## Hi there, I'm Pavel 👋
 
 - 🔭 I’m a 2'nd year student of **MIPT DREC**
-- 📃 Find more about my skills, experience and projects in [CV](https://github.com/Pave2005/Pave2005/blob/main/main_cv.pdf)
+- 📃 Find more about my skills, experience and projects in [CV](https://github.com/Pave2005/Pave2005/blob/main/CV.pdf)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pave2005&theme=moltack&show_icons=true&hide_border=true&count_private=true)
 
